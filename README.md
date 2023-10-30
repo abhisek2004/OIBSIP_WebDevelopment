@@ -1,6 +1,6 @@
 # OIBSIP_WebDevelopment
 
-This is Project is given by codsoft as Intership 
+This is Project is given by Oasis Infobyte as Intership 
 1st Task- Calculator
 2nd Task- To Do List
 3rd Task- Tribute Page
